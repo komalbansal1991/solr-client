@@ -1,0 +1,1 @@
+This is just an example of how to connect to cassandra and solr. Building objects from cassandra table is not completed. Also, we need to create schema in solr too, before posting docs to it. That part has to be figured out.
